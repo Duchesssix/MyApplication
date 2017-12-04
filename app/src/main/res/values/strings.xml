@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">My RV Companion</string>
+    <string name="mainmenu">Main Menu</string>
+    <string name="img_alt">Lacrosse RST330</string>
+    <string name="btn_rvinfo">RV Info</string>
+    <string name="btn_triplog">Trip Log</string>
+    <string name="btn_camps">Camps</string>
+    <string name="btn_camperinfo">Camper Info</string>
+    <string name="btn_towvehicle">Tow Vehicle</string>
+    <string name="txt_campermenu">Select an option</string>
+    <string name="txt_rvlog">RV Log</string>
+    <string name="img_alt2">Camping</string>
+    <string name="txt_camperinfor">Camper Info</string>
+    <string name="lbl_name">Name:</string>
+    <string name="lbl_mfg">Manufacturer:</string>
+    <string name="lbl_makemodel">Make/Model:</string>
+    <string name="lbl_type">Type:</string>
+    <string name="lbl_vin">VIN:</string>
+    <string name="lbl_licenseplate">License Plate:</string>
+    <string name="lbl_regno">Registration No:</string>
+    <string name="lbl_wt">Weight:</string>
+    <string name="lbl_len">Length:</string>
+    <string name="lbl_foldedlen">Folded Length:</string>
+    <string name="lbl_maxht">Max. Height:</string>
+    <string name="lbl_foldedht">Folded Height:</string>
+    <string name="lbl_numtires">Number of Tires:</string>
+    <string name="lbl_frontpressure">Front Tire Pressure:</string>
+    <string name="lbl_backpressure">Rear Tire Pressure:</string>
+    <string name="lbl_dealer">Dealer Contact:</string>
+    <string name="lbl_servicecontact">Service Contact:</string>
+    <string name="lbl_mfgcontact">Manufacturer Contact:</string>
+    <string name="lbl_ins">Insurance Policy Info:</string>
+    <string name="lbl_tirerepl">Tire Replacement Info:</string>
+    <string name="lbl_notes">Notes:</string>
+    <string-array name="Month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string name="lbl_geninfo">General Info</string>
+    <string name="lbl_reginfo">Registration Info</string>
+    <string name="lbl_specs">Specifications</string>
+    <string name="lbl_contactinfo">Contact Info</string>
+    <string name="lbl_emergencyinfo">Emergency Info</string>
+    <string-array name="Type">
+        <item> </item>
+        <item>Pop-Up</item>
+        <item>Hybrid</item>
+        <item>Truck Camper</item>
+        <item>Travel Trailer</item>
+        <item>Toy Hauler</item>
+        <item>Fifth Wheel</item>
+        <item>Class A</item>
+        <item>Class B</item>
+        <item>Class C</item>
+    </string-array>
+
+
+</resources>
